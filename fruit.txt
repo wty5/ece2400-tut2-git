@@ -7,4 +7,8 @@ peach
 lecom
 plum
 plum
+<<<<<<< e179d5298ebca3eb7deec642ea30e478f1cf3639
 kiwi
+=======
+date
+>>>>>>> BOB: added date to fruit list
