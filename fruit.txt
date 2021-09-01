@@ -4,3 +4,4 @@ strawberry
 orange
 banana
 peach
+lecom
